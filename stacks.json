@@ -14,8 +14,8 @@
   ],
   "has_dataset": true,
   "has_api": false,
-  "git_url": "",
-  "git_commit": "",
+  "git_url": "https://github.com/op-playground/population-dataset.git",
+  "git_commit": "211d3cecc1a4892d479b58bf1ff73c89597b2389",
   "installTime": "2 minutes",
   "isStacksSaved": true
 }
